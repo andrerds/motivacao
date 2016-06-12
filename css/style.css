@@ -1,0 +1,15 @@
+body {
+  font-family: courier;
+  font-size: 16px;
+}
+
+div {
+  text-align: center;
+  width: 80%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: 0px;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}

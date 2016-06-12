@@ -1,6 +1,6 @@
 {
    "name": "Motivação",
-   "version": "0.0",
+   "version": "0.1",
    "description": "A cada nova guia uma nova frase motivacional.",
    "chrome_url_overrides": {
       "newtab": "index.html"

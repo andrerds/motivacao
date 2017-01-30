@@ -12,7 +12,7 @@ var frases = [
     "Todos os seus sonhos podem se tornar realidade se você tem coragem para persegui-los – Walt Disney",
     "Ter sucesso é falhar repetidamente, mas sem perder o entusiasmo – Winston Churchill",
     "Sempre que você vir uma pessoa de sucesso, você sempre verá as glórias, nunca os sacrifícios que os levaram até ali – Vaibhav Shah",
-    "Sucesso? Eu não sei o que isso significa. Eu sou feliz. A definição de sucesso varia de pessoa para pessoa Para mim, sucesso é, paz anterior – Denzel Washington",
+    "Sucesso? Eu não sei o que isso significa. Eu sou feliz. A definição de sucesso varia de pessoa para pessoa. Para mim, sucesso é, paz anterior – Denzel Washington",
     "Oportunidades não surgem. É você que as cria – Chris Grosser",
     "Não tente ser uma pessoa de sucesso. Em vez disso, seja uma pessoa de valor – Albert Einstein",
     "Não é o mais forte que sobrevive, nem o mais inteligente. Quem sobrevive é o mais disposto à mudança – Charles Darwin",
